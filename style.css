@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid rgb(247, 245, 245);
+}
+
+body {
+    background-image: url(https://keremilhan.github.io/netflix-form/img/background.jpg);
+
+   
+
+}
+
+.container{
+    background-color: yellow;  
+    
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+h1 {
+    color: #E50914;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+}
+
+
+.lbl {
+    margin: 10px;
+   display: flex;
+   
+}
+
+
+.name {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+
+.age {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.email {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.content-type {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.checkbox-container {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.radio-container {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+
+
